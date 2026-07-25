@@ -1,23 +1,22 @@
 #EXTM3U
-#EXT-X-VERSION:3
 
-#EXT-X-STREAM-INF:BANDWIDTH=2000000
+#EXTINF:-1, Lista 1
 https://raw.githubusercontent.com/TalveZz/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr/refs/heads/main/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr1.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=2000000
+#EXTINF:-1, Lista 2
 https://raw.githubusercontent.com/TalveZz/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr/refs/heads/main/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr2.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=2000000
-https://raw.githubusercontent.com/TalveZz/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr/main/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr3.m3u8
+#EXTINF:-1, Lista 3
+https://raw.githubusercontent.com/TalveZz/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr/refs/heads/main/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr3.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=2000000
+#EXTINF:-1, Lista 4
 https://raw.githubusercontent.com/TalveZz/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr/refs/heads/main/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr4.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=2000000
+#EXTINF:-1, Lista 5
 https://raw.githubusercontent.com/TalveZz/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr/refs/heads/main/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr5.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=2000000
+#EXTINF:-1, Lista 6
 https://raw.githubusercontent.com/TalveZz/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr/refs/heads/main/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr6.m3u8
 
-#EXT-X-STREAM-INF:BANDWIDTH=2000000
-https://raw.githubusercontent.com/TalveZz/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr/refs/heads/main/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clrmundial7.m3u
+#EXTINF:-1, Mundial 7
+https://raw.githubusercontent.com/TalveZz/zqn15gj0sa6uwvdyemkhi3o9t2x7f4bp8clr/refs/heads/main/mundial7.m3u8
